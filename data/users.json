@@ -1,0 +1,14 @@
+[
+    {
+        "id": "d607784f-b11b-4fb0-80a6-96a5a733b2be",
+        "name": "juan",
+        "email": "juan@binar.com",
+        "password": "juan123"
+    },
+    {
+        "id": "347ca9a3-1ffc-4026-b0bf-657bc629b7b9",
+        "name": "kabe",
+        "email": "kabe@binar.com",
+        "password": "kabe123"
+    }
+]
